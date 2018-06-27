@@ -10,7 +10,8 @@
  * Domain Path: /languages
  */
 
-// namespace PMPro;
+namespace PMPro;
+
 defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
 
 require_once( 'blocks/init.php' );
